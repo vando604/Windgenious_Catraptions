@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 70c1c54e98cbda741aa9d91242f444ce
+timeCreated: 1471715747
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bottomSmokeSprite.fw_0
+    21300002: bottomSmokeSprite.fw_1
+    21300004: bottomSmokeSprite.fw_2
+    21300006: bottomSmokeSprite.fw_3
+    21300008: bottomSmokeSprite.fw_4
+    21300010: bottomSmokeSprite.fw_5
+    21300012: bottomSmokeSprite.fw_6
+    21300014: bottomSmokeSprite.fw_7
+    21300016: bottomSmokeSprite.fw_8
+    21300018: bottomSmokeSprite.fw_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 108
+        height: 237
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.49234575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 115
+        width: 92
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 108
+        width: 94
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 113
+        width: 94
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 124
+        width: 118
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 115
+        width: 107
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 112
+        width: 122
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 97
+        width: 114
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 101
+        width: 124
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bottomSmokeSprite.fw_9
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 104
+        width: 113
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
